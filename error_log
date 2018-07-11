@@ -1,0 +1,4 @@
+[03-Jun-2018 13:53:06 UTC] PHP Notice:  Undefined index: name in /home/paladinc/public_html/Paladin_Inc_Site/send_Email.php on line 5
+[03-Jun-2018 13:53:06 UTC] PHP Notice:  Undefined index: email in /home/paladinc/public_html/Paladin_Inc_Site/send_Email.php on line 7
+[03-Jun-2018 13:53:06 UTC] PHP Notice:  Undefined index: subject in /home/paladinc/public_html/Paladin_Inc_Site/send_Email.php on line 9
+[03-Jun-2018 13:53:06 UTC] PHP Notice:  Undefined index: message in /home/paladinc/public_html/Paladin_Inc_Site/send_Email.php on line 11
